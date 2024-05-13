@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kotrabiu@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/rabiuk/resume/blob/main/Rabiu%2C%20Kenny%20-%20Resume.pdf](https://github.com/rabiuk/resume/blob/main/Rabiu%2C%20Kenny%20-%20Resume.pdf)
+- 📄 Know about my experiences on my [Resume](https://github.com/rabiuk/resume/blob/main/Rabiu%2C%20Kenny%20-%20Resume.pdf)
 
 - ⚡ Fun fact **I like sports**
 
