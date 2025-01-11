@@ -3,7 +3,7 @@
 
 - 🎓 I'm a current student @ **McMaster University**
 
-- 👨🏾‍💻 Im a studying **Computer Science**
+- 👨🏾‍💻 Im studying **Computer Science**
 
 - 💬 Ask me about **Web dev & AI**
 
