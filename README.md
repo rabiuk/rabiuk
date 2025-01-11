@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web dev & AI**
 
-- 📫 How to reach me **kotrabiu@gmail.com**
+- 📫 How to reach me **rabiuksrc@gmail.com**
 
 - 📄 Know about my experiences on my [Resume](https://github.com/rabiuk/resume/blob/main/Rabiu%2C%20Kenny%20-%20Resume.pdf)
 
